@@ -37,6 +37,8 @@ public class ByteBuffer {
 			int pick = random.nextInt(3);
 			System.out.println("Random Value: " + pick);
 		}
+	
+		System.out.println("gitHub上传测试");
 		
 	}
 	
